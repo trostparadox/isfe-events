@@ -1,0 +1,18 @@
+{
+  "date": "2026-9-30",
+  "generated": "2026-09-22T14:43:40",
+  "events": [
+    {
+      "occurrence_id": "2026_09_30_01",
+      "event_name": "Book Discussion (A Conflict of Visions)",
+      "location_code": "gab_435",
+      "window_open": "09:15",
+      "start_time": "09:30",
+      "end_time": "10:45",
+      "assigned_readings": "YES",
+      "reading": "Chapters 3 & 4",
+      "window_close": "11:20",
+      "extra_credit": []
+    }
+  ]
+}

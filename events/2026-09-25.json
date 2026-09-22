@@ -1,0 +1,18 @@
+{
+  "date": "2026-9-25",
+  "generated": "2026-09-22T07:22:58",
+  "events": [
+    {
+      "occurrence_id": "2026_09_25_01",
+      "event_name": "Book Discussion (How to Think About the Economy -- Fridays)",
+      "location_code": "gab_435",
+      "window_open": "12:30",
+      "start_time": "12:45",
+      "end_time": "14:00",
+      "assigned_readings": "YES",
+      "reading": "Chapter 1",
+      "window_close": "14:35",
+      "extra_credit": []
+    }
+  ]
+}

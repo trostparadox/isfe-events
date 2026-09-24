@@ -1,6 +1,6 @@
 {
   "date": "2026-9-24",
-  "generated": "2026-09-24T08:52:49",
+  "generated": "2026-09-24T08:54:14",
   "events": [
     {
       "occurrence_id": "2026_09_24_02",
@@ -8,10 +8,10 @@
       "location_code": "gab_435",
       "window_open": "08:45",
       "start_time": "09:00",
-      "end_time": "14:15",
+      "end_time": "12:00",
       "assigned_readings": "NO",
       "reading": "N/A",
-      "window_close": "14:50",
+      "window_close": "12:35",
       "extra_credit": []
     },
     {

@@ -1,7 +1,19 @@
 {
   "date": "2026-9-24",
-  "generated": "2026-09-22T15:57:05",
+  "generated": "2026-09-24T08:52:49",
   "events": [
+    {
+      "occurrence_id": "2026_09_24_02",
+      "event_name": "TEST TEST",
+      "location_code": "gab_435",
+      "window_open": "08:45",
+      "start_time": "09:00",
+      "end_time": "14:15",
+      "assigned_readings": "NO",
+      "reading": "N/A",
+      "window_close": "14:50",
+      "extra_credit": []
+    },
     {
       "occurrence_id": "2026_09_24_01",
       "event_name": "Book Discussion (The Cure That Works)",

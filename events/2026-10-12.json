@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-12",
+  "generated": "2026-10-12T13:24:23",
+  "events": [
+    {
+      "occurrence_id": "2026_10_12_02",
+      "event_name": "TEST2",
+      "location_code": "gab_435",
+      "window_open": "08:45",
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "assigned_readings": "NO",
+      "reading": "N/A",
+      "window_close": "14:35",
+      "extra_credit": []
+    },
+    {
+      "occurrence_id": "2026_10_12_01",
+      "event_name": "Book Discussion (How to Think About the Economy -- Mondays)",
+      "location_code": "gab_435",
+      "window_open": "15:00",
+      "start_time": "15:30",
+      "end_time": "16:45",
+      "assigned_readings": "YES",
+      "reading": "Chapter 4",
+      "window_close": "17:20",
+      "extra_credit": []
+    }
+  ]
+}
